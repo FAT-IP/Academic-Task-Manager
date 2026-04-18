@@ -72,3 +72,6 @@ Kim, S.-K. (Amang). COMP2116: Software Engineering Final Project Guideline. Maca
 Oracle Java Docs. Serialization and Date-Time API. Official Documentation.
 
 Agile Alliance. The Agile Manifesto for Software Development.
+
+7. Project Demonstration
+https://youtu.be/0T4WiNEQiS0
